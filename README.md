@@ -17,15 +17,12 @@
 >⚠️ 演示环境为公共体验环境，数据会定期重置，请勿存放真实业务数据。
 
 <!-- 更多截图示例，按需开启，图片提交到仓库 docs/assets 文件夹 -->
-<!--
 
 <p align="center">
 <img src="docs/assets/datasource.png" alt="数据源管理页面" width="800"/>
 <img src="docs/assets/createDatabase.gif" alt="新建数据源完整操作演示" width="800"/>
 <img src="docs/assets/createTask.gif" alt="新建同步任务完整操作演示" width="800"/>
 </p>
-
--->
 
 ## ✨ 功能特性
 
@@ -166,15 +163,13 @@ python add_comments.py --apply    # 真正写入注释
 | 达梦       | dmPython | 需要安装达梦官方驱动，Python 环境可正常导入`dmPython` |
 | SQLite     | 内置     | 仅用于本地演示与开发                                  |
 
-##  👥 社区与支持
+##  👥 社区与支持 
 
-```
-| wx交流群 | 微信 |
-| ---- | ---- |
-| ![WX群](docs/assets/wx-group.png) | ![微信](docs/assets/wechat-pay.png) |
-```
+| wx交流群                          | 微信                                   |
+| --------------------------------- | -------------------------------------- |
+| ![WX群](docs/assets/wx-group.jpg) | ![微信](docs/assets/wechat-pay.png) \| |
 
-##  🙏 鸣谢
+## 🙏 鸣谢
 
 > 如果你觉得项目有用，请给一个 ⭐️ Star 支持！
 
