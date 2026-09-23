@@ -167,7 +167,7 @@ python add_comments.py --apply    # 真正写入注释
 
 | wx交流群                          | 微信                                   |
 | --------------------------------- | -------------------------------------- |
-| ![WX群](docs/assets/wx-group.jpg) | ![微信](docs/assets/wechat-pay.png) \| |
+| ![WX群](docs/assets/wx-group.png) | ![微信](docs/assets/wechat-pay.png) \| |
 
 ## 🙏 鸣谢
 
